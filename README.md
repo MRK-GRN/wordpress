@@ -1,11 +1,13 @@
 # Wordpress Blog de Tecnologia
 
-Descripcion del projecto
+# Descripcion del projecto
 Este blog se dedica a cubrir las ultimas noticias sobre la tecnologia.
 
-Captura de pantalla de la pagina principal
+Capturas de pantalla de la pagina principal
+![](/c1.png)
+![](/c2.png)
+![](/c3.png)
 
-[img]
 
 Funcionalidades implementadas
 
