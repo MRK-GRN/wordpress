@@ -15,4 +15,3 @@ Las funcionalidades implementadas son el formulario de contacto, mapa, y calenda
 # Enlaze al portal
 
 http://192.168.237.112
-https://wpblog.xionix.dev
