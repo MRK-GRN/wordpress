@@ -11,7 +11,9 @@ Este blog se dedica a cubrir las ultimas noticias sobre la tecnologia.
 ## Funcionalidades implementadas
 Las funcionalidades implementadas son el formulario de contacto, mapa, y calendario de publicaciones.
 
-![](./contacto.png)
+![](/contacto.png)
+
+![](/mapacalendario.png)
 
 ## Enlaze al portal
 
